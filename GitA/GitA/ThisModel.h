@@ -1,5 +1,5 @@
 //
-//  DataModel.h
+//  ThisModel.h
 //  GitA
 //
 //  Created by Apple on 2019/4/4.
@@ -10,10 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface DataModel : NSObject
-
-
-
+@interface ThisModel : NSObject
 
 @end
 

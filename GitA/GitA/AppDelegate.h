@@ -8,17 +8,24 @@
 
 #import <UIKit/UIKit.h>
 
-
-// 分支1
+// 使用他人版本解决冲突
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 
-@property (strong, nonatomic) NSString *str1;
 
-@property (strong, nonatomic) NSString *str2;
+@property (strong, nonatomic) UIWindow *window1;
 
-@property (strong, nonatomic) NSString *str3;
+
+@property (strong, nonatomic) UIWindow *window2;
+
+
+@property (strong, nonatomic) UIWindow *window3;
+
+
+@property (strong, nonatomic) UIWindow *window4;
+
+
 
 @end
 
