@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		18FE5ADA2255CB8D00690D55 /* TabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18FE5AD92255CB8D00690D55 /* TabBarViewController.m */; };
-		18FE5ADD2255D19900690D55 /* DataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 18FE5ADC2255D19900690D55 /* DataModel.m */; };
 		75D2760D22520BA20057A859 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 75D2760C22520BA20057A859 /* AppDelegate.m */; };
 		75D2761022520BA20057A859 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 75D2760F22520BA20057A859 /* ViewController.m */; };
 		75D2761322520BA20057A859 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75D2761122520BA20057A859 /* Main.storyboard */; };
@@ -40,7 +39,6 @@
 		18FE5AD82255CB8D00690D55 /* TabBarViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TabBarViewController.h; sourceTree = "<group>"; };
 		18FE5AD92255CB8D00690D55 /* TabBarViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TabBarViewController.m; sourceTree = "<group>"; };
 		18FE5ADB2255D19900690D55 /* DataModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DataModel.h; sourceTree = "<group>"; };
-		18FE5ADC2255D19900690D55 /* DataModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DataModel.m; sourceTree = "<group>"; };
 		75D2760822520BA20057A859 /* GitA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		75D2760B22520BA20057A859 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		75D2760C22520BA20057A859 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -114,7 +112,6 @@
 				18FE5AD82255CB8D00690D55 /* TabBarViewController.h */,
 				18FE5AD92255CB8D00690D55 /* TabBarViewController.m */,
 				18FE5ADB2255D19900690D55 /* DataModel.h */,
-				18FE5ADC2255D19900690D55 /* DataModel.m */,
 				75D2761122520BA20057A859 /* Main.storyboard */,
 				75D2761422520BA60057A859 /* Assets.xcassets */,
 				75D2761622520BA60057A859 /* LaunchScreen.storyboard */,
@@ -273,7 +270,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				18FE5ADA2255CB8D00690D55 /* TabBarViewController.m in Sources */,
-				18FE5ADD2255D19900690D55 /* DataModel.m in Sources */,
 				75D2761022520BA20057A859 /* ViewController.m in Sources */,
 				75D2761B22520BA60057A859 /* main.m in Sources */,
 				75D2760D22520BA20057A859 /* AppDelegate.m in Sources */,
