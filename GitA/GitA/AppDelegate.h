@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+// 在第二个分支上添加了一条注释
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
