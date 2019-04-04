@@ -20,6 +20,8 @@
     
     self.view.backgroundColor = [UIColor blueColor];
     
+    // 在zmaster上的tabbarViewController中添加一个文字
+    
 }
 
 /*
