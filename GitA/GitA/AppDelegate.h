@@ -14,6 +14,11 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+@property (strong, nonatomic) NSString *str1;
+
+@property (strong, nonatomic) NSString *str2;
+
+@property (strong, nonatomic) NSString *str3;
 
 @end
 
