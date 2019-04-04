@@ -20,6 +20,9 @@
     
     self.view.backgroundColor = [UIColor blueColor];
     
+    
+    UILabel *lab = [UILabel new];
+    [self.view addSubview:lab];
 }
 
 /*
