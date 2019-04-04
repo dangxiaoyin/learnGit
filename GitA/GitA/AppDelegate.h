@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
+
+// master添加注释
+// 分支1
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
